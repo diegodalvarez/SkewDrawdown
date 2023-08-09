@@ -13,7 +13,9 @@ import datetime as dt
 def collect():
 
     tickers = (pd.read_csv(
-        filepath_or_buffer = "etfs_list.csv")
+        filepath_or_buffer = "etfs_list.csv").
+        rename(columns = {"Foreign (F) / Domestic (D)": "domestic"}).
+        query("domestic == 'D'")
         ["Trading Symbol"].
         drop_duplicates().
         dropna().
@@ -36,3 +38,4 @@ def collect():
     
 if __name__ == "__main__":
     collect()
+
