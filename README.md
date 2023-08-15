@@ -1,2 +1,4 @@
 # KnowYourSkew
-An Analysis of Returns Skew and Volatility
+An Analysis of Returns Skew and Volatility. Work originally based on looking at Hedge Fund Returns volatility as a predictor of maximum loss ([link here](https://www.google.com/search?q=know+your+skew&oq=know+your+skew+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg8MgYIAhBFGDwyBggDEEUYPNIBCDE3MjdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8])). The idea is that skew is driver of drawdown, and as volatility incresases returns move further out the tails of the distribution. If that distribution has considerable amount of skew then heavier returns pick up in the heavier tail faster as volatility increases. This is the case with most assets in financial markets which exhibit negative skew.
+![image](https://github.com/diegodalvarez/SkewDrawdown/assets/48641554/68abdffe-cc5d-412c-a5f3-1f5dbc27512c)
+Although it would appear to logical to search for strategies that have positive skew they usually come at the cost of negative expected value (ie. insurance). On the converse the benefit of negative skew is positive expected returns. This repo will look into that relationship. 
