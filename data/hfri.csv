@@ -1,0 +1,200 @@
+,Security,Description,Category,Subcategory
+,HFRIFWI Index,HFRI Fund Weighted Composite Index,Index/Stats,Fund Indices
+,HFRIFOF Index,HFRI Fund of Funds Composite Index,Index/Stats,Fund Indices
+,HFRIEHI Index,HFRI Equity Hedge Total Index,Index/Stats,Fund Indices
+,HFRIFOFD Index,HFRI FOF Diversified Index,Index/Stats,Fund Indices
+,HFRIEDI Index,HFRI Event-Driven Total Index,Index/Stats,Fund Indices
+,HFRIMI Index,HFRI Macro Total Index,Index/Stats,Fund Indices
+,HFRIEMNI Index,HFRI EH Equity Market Neutral Index,Index/Stats,Fund Indices
+,HFRIMAI Index,HFRI ED Merger Arbitrage Index,Index/Stats,Fund Indices
+,HFRIDSI Index,HFRI ED Distressed/Restructuring Index,Index/Stats,Fund Indices
+,HFRI5FWC Index,HFRI 500 Fund Weighted Composite Index,Index/Stats,Fund Indices
+,HFRIFOFC Index,HFRI FOF Conservative Index,Index/Stats,Fund Indices
+,HFRIRVA Index,HFRI Relative Value Total Index,Index/Stats,Fund Indices
+,HFRIAWC Index,HFRI Asset Weighted Composite Index,Index/Stats,Fund Indices
+,HFRICAI Index,HFRI Relative Value Fixed Income-Convertible Arbitrage Index,Index/Stats,Fund Indices
+,HFRIFIMB Index,HFRI Relative Value Fixed Income-Asset Backed Index,Index/Stats,Fund Indices
+,HFRITECH Index,HFRI EH: Sector - Technology Index,Index/Stats,Fund Indices
+,HFRICRDT Index,HFRI Credit Index,Index/Stats,Fund Indices
+,HFRIFIHY Index,HFRI Relative Value Fixed Income-Corporate Index,Index/Stats,Fund Indices
+,HFRI5EMN Index,HFRI 500 EH: Equity Market Neutral Index,Index/Stats,Fund Indices
+,HFRIFI Index,HFRI Relative Value Multi-Strategy Index,Index/Stats,Fund Indices
+,HFRIMTF Index,HFRI Trend Following Directional Index,Index/Stats,Fund Indices
+,HFRIMTI Index,HFRI Macro Systematic Diversified Index,Index/Stats,Fund Indices
+,HFRIMDT Index,HFRI Macro Discretionary Thematic Index,Index/Stats,Fund Indices
+,HFRIFOFS Index,HFRI FOF Strategic Index,Index/Stats,Fund Indices
+,HFRIFWIE Index,HFRI Fund Weighted Composite EUR Index,Index/Stats,Fund Indices
+,HFRIMCOM Index,HFRI Macro Commodity Index,Index/Stats,Fund Indices
+,HFRI5MSM Index,HFRI 500 Macro: Systematic Macro Index,Index/Stats,Fund Indices
+,HFRIENHI Index,HFRI EH Quantitative Directional Index,Index/Stats,Fund Indices
+,HFRIEDSS Index,HFRI Event-Driven Special Situation Index,Index/Stats,Fund Indices
+,HFRIAWEH Index,HFRI Equity Hedge Total Asset Weighted Index,Index/Stats,Fund Indices
+,HFRIMMS Index,HFRI Macro Multi-Strategy Index,Index/Stats,Fund Indices
+,HFRIHLTH Index,HFRI EH: Sector - Healthcare Index,Index/Stats,Fund Indices
+,HFRIFOFM Index,HFRI FOF Market Defensive Index,Index/Stats,Fund Indices
+,HFRIILM Index,HFRI-I Liquid Alternative UCITS Macro Index,Index/Stats,Fund Indices
+,HFRIAWJ Index,HFRI Asia with Japan Index,Index/Stats,Fund Indices
+,HFRIACT Index,HFRI ED Activist Index,Index/Stats,Fund Indices
+,HFRIFISV Index,HFRI Relative Value Fixed Income Sovereign Index,Index/Stats,Fund Indices
+,HFRIELD Index,HFRI EH: Long/Short Directional Index,Index/Stats,Fund Indices
+,HFRIILAU Index,HFRI-I Liquid Alternative UCITS Index,Index/Stats,Fund Indices
+,HFRIILEH Index,HFRI-I Liquid Alternative UCITS Equity Hedge Index,Index/Stats,Fund Indices
+,HFRI5M Index,HFRI 500 Macro Index,Index/Stats,Fund Indices
+,HFRICIS Index,HFRI Emerging Markets Russia/Eastern Europe Index,Index/Stats,Fund Indices
+,HFRIEMA Index,HFRI Emerging Markets Asia ex-Japan Index,Index/Stats,Fund Indices
+,HFRI5ED Index,HFRI 500 Event-Driven Index,Index/Stats,Fund Indices
+,HFRIEDMS Index,HFRI ED Multi-Strategy Index,Index/Stats,Fund Indices
+,HFRIEM Index,HFRI Emerging Markets Total Index,Index/Stats,Fund Indices
+,HFRIFWIJ Index,HFRI Fund Weighted Composite JPY Index,Index/Stats,Fund Indices
+,HFRIVOL Index,HFRI Relative Value Volatility Index,Index/Stats,Fund Indices
+,HFRICRED Index,HFRI ED Credit Arbitrage Index,Index/Stats,Fund Indices
+,HFRIEHMS Index,HFRI EH Multi-Strategy Index,Index/Stats,Fund Indices
+,HFRIFWIG Index,HFRI Fund Weighted Composite GBP Index,Index/Stats,Fund Indices
+,HFRISTI Index,HFRI EH Sector Technology/Healthcare (Total) Index,Index/Stats,Fund Indices
+,HFRI5EH Index,HFRI 500 Equity Hedge Index,Index/Stats,Fund Indices
+,HFRI5MDM Index,HFRI 500 Macro: Discretionary Macro Index,Index/Stats,Fund Indices
+,HFRI5RV Index,HFRI 500 Relative Value Index,Index/Stats,Fund Indices
+,HFRIFWIC Index,HFRI Fund Weighted Composite CHF Index,Index/Stats,Fund Indices
+,HFRI5EDM Index,HFRI 500 ED: Multi-Strategy Index,Index/Stats,Fund Indices
+,HFRICHN Index,HFRI Emerging Markets China Index,Index/Stats,Fund Indices
+,HFRI5EDB Index,HFRI 500 ED: Merger Arbitrage Index,Index/Stats,Fund Indices
+,HFRIEHFV Index,HFRI Equity Hedge Fundamental Value Index,Index/Stats,Fund Indices
+,HFRIMSR Index,HFRI Macro: Systematic Directional Index,Index/Stats,Fund Indices
+,HFRISRE Index,HFRI Relative Value Yield Alternatives Index,Index/Stats,Fund Indices
+,HFRIEMG Index,HFRI Emerging Markets Global Index,Index/Stats,Fund Indices
+,HFRIJPN Index,HFRI Japan Index,Index/Stats,Fund Indices
+,HFRIMDD Index,HFRI Macro: Discretionary Directional Index,Index/Stats,Fund Indices
+,HFRIEDD Index,HFRI Event Driven Directional Index,Index/Stats,Fund Indices
+,HFRIEMLA Index,HFRI Emerging Markets Latin America Index,Index/Stats,Fund Indices
+,HFRIWRLD Index,HFRI World Index,Index/Stats,Fund Indices
+,HFRI5EDA Index,HFRI 500 ED: Activist Index,Index/Stats,Fund Indices
+,HFRI5MDT Index,HFRI 500 Macro: Discretionary Thematic Index,Index/Stats,Fund Indices
+,HFRI5RVS Index,HFRI 500 RV: Fixed Income - Sovereign Index,Index/Stats,Fund Indices
+,HFRI5RVV Index,HFRI 500 RV: Volatility Index,Index/Stats,Fund Indices
+,HFRINEH Index,HFRI Institutional Equity Hedge Index,Index/Stats,Fund Indices
+,HFRIRFD Index,HFRI RV: Fixed Income Directional Index,Index/Stats,Fund Indices
+,HFRI5EEB Index,HFRI 500 EH: Energy/Basic Materials Index,Index/Stats,Fund Indices
+,HFRI5EHC Index,HFRI 500 EH: Healthcare Index,Index/Stats,Fund Indices
+,HFRI5EHG Index,HFRI 500 EH: Fundamental Growth Index,Index/Stats,Fund Indices
+,HFRI5EHT Index,HFRI 500 EH: Technology Index,Index/Stats,Fund Indices
+,HFRI5EHV Index,HFRI 500 EH: Fundamental Value Index,Index/Stats,Fund Indices
+,HFRI5ELD Index,HFRI 500 EH: Long/Short Directional Index,Index/Stats,Fund Indices
+,HFRI5RFI Index,HFRI 500 RV: Fixed Income Relative Value Index,Index/Stats,Fund Indices
+,HFRIEHFG Index,HFRI Equity Hedge Fundamental Growth Index,Index/Stats,Fund Indices
+,HFRIILRV Index,HFRI-I Liquid Alternative UCITS Relative Value Index,Index/Stats,Fund Indices
+,HFRI5MSD Index,HFRI 500 Macro: Systematic Diversified Index,Index/Stats,Fund Indices
+,HFRIMCUR Index,HFRI Macro Currency Index,Index/Stats,Fund Indices
+,HFRIMENA Index,HFRI Emerging Markets MENA Index,Index/Stats,Fund Indices
+,HFRIDVRS Index,HFRI Diversity Index,Index/Stats,Fund Indices
+,HDG500Z KY Equity,abrdn Eclipse SPC - abrdn Eclipse HFRI 500 SP Class Z (CSX),Funds,Fund of Funds
+,HDG5EQZ KY Equity,abrdn Eclipse Strategy SPC - abrdn Eclipse HFRI 500 Long/Short Equity SP Class Z (CSX),Funds,Fund of Funds
+,HFRI4ED Index,HFRI 400 (US) Event-Driven Index,Index/Stats,Fund Indices
+,HFRI4EDA Index,HFRI 400 (US) ED: Activist Index,Index/Stats,Fund Indices
+,HFRI4EDB Index,HFRI 400 (US) ED: Merger Arbitrage Index,Index/Stats,Fund Indices
+,HFRI4EDD Index,HFRI 400 (US) ED: Distressed/Restructuring Index,Index/Stats,Fund Indices
+,HFRI4EDM Index,HFRI 400 (US) ED: Multi-Strategy Index,Index/Stats,Fund Indices
+,HFRI4EDS Index,HFRI 400 (US) ED: Special Situations Index,Index/Stats,Fund Indices
+,HFRI4EEB Index,HFRI 400 (US) EH: Energy/Basic Materials Index,Index/Stats,Fund Indices
+,HFRI4EH Index,HFRI 400 (US) Equity Hedge Index,Index/Stats,Fund Indices
+,HFRI4EHC Index,HFRI 400 (US) EH: Healthcare Index,Index/Stats,Fund Indices
+,HFRI4EHG Index,HFRI 400 (US) EH: Fundamental Growth Index,Index/Stats,Fund Indices
+,HFRI4EHM Index,HFRI 400 (US) EH: Multi-Strategy Index,Index/Stats,Fund Indices
+,HFRI4EHT Index,HFRI 400 (US) EH: Technology Index,Index/Stats,Fund Indices
+,HFRI4EHV Index,HFRI 400 (US) EH: Fundamental Value Index,Index/Stats,Fund Indices
+,HFRI4ELS Index,HFRI 400 (US) EH: Long/Short Index,Index/Stats,Fund Indices
+,HFRI4EMN Index,HFRI 400 (US) EH: Equity Market Neutral Index,Index/Stats,Fund Indices
+,HFRI4EQD Index,HFRI 400 (US) EH: Quantitative Directional Index,Index/Stats,Fund Indices
+,HFRI4FWC Index,HFRI 400 (US) Fund Weighted Composite Index,Index/Stats,Fund Indices
+,HFRI4M Index,HFRI 400 (US) Macro Index,Index/Stats,Fund Indices
+,HFRI4MCO Index,HFRI 400 (US) Macro: Commodity Index,Index/Stats,Fund Indices
+,HFRI4MCU Index,HFRI 400 (US) Macro: Currency Index,Index/Stats,Fund Indices
+,HFRI4MDM Index,HFRI 400 (US) Macro: Discretionary Macro Index,Index/Stats,Fund Indices
+,HFRI4MDT Index,HFRI 400 (US) Macro: Discretionary Thematic Index,Index/Stats,Fund Indices
+,HFRI4MMS Index,HFRI 400 (US) Macro: Multi-Strategy Index,Index/Stats,Fund Indices
+,HFRI4MSD Index,HFRI 400 (US) Macro: Systematic Diversified Index,Index/Stats,Fund Indices
+,HFRI4MSM Index,HFRI 400 (US) Macro: Systematic Macro Index,Index/Stats,Fund Indices
+,HFRI4RFI Index,HFRI 400 (US) RV: Fixed Income Relative Value Index,Index/Stats,Fund Indices
+,HFRI4RV Index,HFRI 400 (US) Relative Value Index,Index/Stats,Fund Indices
+,HFRI4RVB Index,HFRI 400 (US) RV: Fixed Income - Asset Backed Index,Index/Stats,Fund Indices
+,HFRI4RVC Index,HFRI 400 (US) RV: Fixed Income - Convertible Arbitrage Index,Index/Stats,Fund Indices
+,HFRI4RVM Index,HFRI 400 (US) RV: Multi-Strategy Index,Index/Stats,Fund Indices
+,HFRI4RVR Index,HFRI 400 (US) RV: Fixed Income - Corporate Index,Index/Stats,Fund Indices
+,HFRI4RVS Index,HFRI 400 (US) RV: Fixed Income - Sovereign Index,Index/Stats,Fund Indices
+,HFRI4RVV Index,HFRI 400 (US) RV: Volatility Index,Index/Stats,Fund Indices
+,HFRI4XMA Index,HFRI 400 (US) ED: Event Driven ex-Merger Arbitrage Index,Index/Stats,Fund Indices
+,HFRI5EDD Index,HFRI 500 ED: Distressed/Restructuring Index,Index/Stats,Fund Indices
+,HFRI5EDR Index,HFRI 500 Event Driven Directional Index,Index/Stats,Fund Indices
+,HFRI5EDS Index,HFRI 500 ED: Special Situations Index,Index/Stats,Fund Indices
+,HFRI5EHM Index,HFRI 500 EH: Multi-Strategy Index,Index/Stats,Fund Indices
+,HFRI5ELS Index,HFRI 500 Equity Hedge: Long/Short Index,Index/Stats,Fund Indices
+,HFRI5EM Index,HFRI 500 Emerging Markets Index,Index/Stats,Fund Indices
+,HFRI5EQD Index,HFRI 500 EH: Quantitative Directional Index,Index/Stats,Fund Indices
+,HFRI5LB Index,HFRI 500 Low Beta Index,Index/Stats,Fund Indices
+,HFRI5MAT Index,HFRI 500 Macro: Active Trading Index,Index/Stats,Fund Indices
+,HFRI5MCO Index,HFRI 500 Macro: Commodity Index,Index/Stats,Fund Indices
+,HFRI5MCU Index,HFRI 500 Macro: Currency Index,Index/Stats,Fund Indices
+,HFRI5MDD Index,HFRI 500 Macro: Discretionary Directional Index,Index/Stats,Fund Indices
+,HFRI5MMS Index,HFRI 500 Macro: Multi-Strategy Index,Index/Stats,Fund Indices
+,HFRI5MSR Index,HFRI 500 Macro: Systematic Directional Index,Index/Stats,Fund Indices
+,HFRI5MTF Index,HFRI 500 Trend Following Directional Index,Index/Stats,Fund Indices
+,HFRI5RFD Index,HFRI 500 RV: Fixed Income Directional Index,Index/Stats,Fund Indices
+,HFRI5RVB Index,HFRI 500 RV: Fixed Income - Asset Backed Index,Index/Stats,Fund Indices
+,HFRI5RVC Index,HFRI 500 RV: Fixed Income - Convertible Arbitrage Index,Index/Stats,Fund Indices
+,HFRI5RVM Index,HFRI 500 RV: Multi-Strategy Index,Index/Stats,Fund Indices
+,HFRI5RVR Index,HFRI 500 RV: Fixed Income - Corporate Index,Index/Stats,Fund Indices
+,HFRI5XMA Index,HFRI 500 ED: Event Driven ex-Merger Arbitrage Index,Index/Stats,Fund Indices
+,HFRIAWED Index,HFRI Event-Driven Total Asset Weighted Index,Index/Stats,Fund Indices
+,HFRIAWM Index,HFRI Macro Total Asset Weighted Index,Index/Stats,Fund Indices
+,HFRIAWRV Index,HFRI Relative Value Total Asset Weighted Index,Index/Stats,Fund Indices
+,HFRIFCLV Index,HFRI FOF: Low Vol (C) Strategy Weighted Index,Index/Stats,Fund Indices
+,HFRIFFHV Index,HFRI FOF: High Vol (S) Index,Index/Stats,Fund Indices
+,HFRIFFLV Index,HFRI FOF: Low Vol (S) Index,Index/Stats,Fund Indices
+,HFRIFFMV Index,HFRI FOF: Mid Vol (S) Index,Index/Stats,Fund Indices
+,HFRIFFRM Index,HFRI FOF: Risk Mitigation (S) Index,Index/Stats,Fund Indices
+,HFRIIEDM Index,HFRI-I Liquid Alternative UCITS ED: Merger Arbitrage Index,Index/Stats,Fund Indices
+,HFRIIEDS Index,HFRI-I Liquid Alternative UCITS ED: Multi-Strategy Index,Index/Stats,Fund Indices
+,HFRIIEFG Index,HFRI-I Liquid Alternative UCITS EH: Fundamental Growth Index,Index/Stats,Fund Indices
+,HFRIIEFV Index,HFRI-I Liquid Alternative UCITS EH: Fundamental Value Index,Index/Stats,Fund Indices
+,HFRIIEMN Index,HFRI-I Liquid Alternative UCITS EH: Equity Market Neutral Index,Index/Stats,Fund Indices
+,HFRIIEMS Index,HFRI-I Liquid Alternative UCITS EH: Multi-Strategy Index,Index/Stats,Fund Indices
+,HFRIIFIC Index,HFRI-I Liquid Alternative UCITS RV: Fixed Income-Corporate Index,Index/Stats,Fund Indices
+,HFRIIFIS Index,HFRI-I Liquid Alternative UCITS RV: Fixed Income-Sovereign Index,Index/Stats,Fund Indices
+,HFRIILED Index,HFRI-I Liquid Alternative UCITS Event Driven Index,Index/Stats,Fund Indices
+,HFRIIMMS Index,HFRI-I Liquid Alternative UCITS Macro: Multi-Strategy Index,Index/Stats,Fund Indices
+,HFRIIMSD Index,HFRI-I Liquid Alternative UCITS Macro: Systematic Diversified Index,Index/Stats,Fund Indices
+,HFRIIND Index,HFRI Emerging Markets India Index,Index/Stats,Fund Indices
+,HFRIIRMS Index,HFRI-I Liquid Alternative UCITS RV: Multi-Strategy Index,Index/Stats,Fund Indices
+,HFRIMACT Index,HFRI Macro Active Trading Index,Index/Stats,Fund Indices
+,HFRINA Index,HFRI North America Index,Index/Stats,Fund Indices
+,HFRINED Index,HFRI Institutional Event-Driven Index,Index/Stats,Fund Indices
+,HFRINEDD Index,HFRI Institutional Event Driven Directional Index,Index/Stats,Fund Indices
+,HFRINELD Index,HFRI Institutional EH: Long/Short Directional Index,Index/Stats,Fund Indices
+,HFRINFWC Index,HFRI Institutional Fund Weighted Composite Index,Index/Stats,Fund Indices
+,HFRINM Index,HFRI Institutional Macro Index,Index/Stats,Fund Indices
+,HFRINMDD Index,HFRI Institutional Macro: Discretionary Directional Index,Index/Stats,Fund Indices
+,HFRINMSD Index,HFRI Institutional Macro: Systematic Directional Index,Index/Stats,Fund Indices
+,HFRINMTF Index,HFRI Institutional Trend Following Directional Index,Index/Stats,Fund Indices
+,HFRINRFD Index,HFRI Institutional RV: Fixed Income Directional Index,Index/Stats,Fund Indices
+,HFRINRVA Index,HFRI Institutional Relative Value Index,Index/Stats,Fund Indices
+,HFRINSWC Index,HFRI Institutional Strategy Weighted Composite Index,Index/Stats,Fund Indices
+,HFRISEN Index,HFRI EH Sector Energy/Basic Materials Index,Index/Stats,Fund Indices
+,HFRIWEU Index,HFRI Western/Pan Europe Index,Index/Stats,Fund Indices
+,HFRIWOMN Index,HFRI Women Index,Index/Stats,Fund Indices
+,ASHILQU ID Equity,ASI HFRI-I Liquid Alternatives UCITS Fund Class Q USD (Dublin),Funds,Open Ended Funds
+,HDG5DMZ KY Equity,abrdn Eclipse Strategy SPC - abrdn Eclipse HFRI 500 Discretionary Macro SP Class Z (CSX),Funds,Fund of Funds
+,HDG5FIZ KY Equity,abrdn Eclipse Strategy SPC - abrdn Eclipse HFRI 500 Fixed Income RV SP Class Z (CSX),Funds,Fund of Funds
+,HDG5SMZ KY Equity,abrdn Eclipse Strategy SPC - abrdn Eclipse HFRI 500 Systematic Macro SP Class Z (CSX),Funds,Fund of Funds
+,HDG5MNZ KY Equity,abrdn Eclipse Strategy SPC - abrdn Eclipse HFRI 500 Equity Market Neutral SP Class Z (CSX),Funds,Fund of Funds
+,ASLAUXU ID Equity,ASI HFRI-I Liquid Alternatives UCITS Fund Class X USD ACC (Dublin),Funds,Open Ended Funds
+,HDG5MAZ KY Equity,abrdn Eclipse Strategy SPC - abrdn Eclipse HFRI 500 Merger Arbitrage SP Class Z (CSX),Funds,Fund of Funds
+,2062967D US Equity,Hfri LLC,Equities,Stocks
+,ASIHLAX ID Equity,ASI HFRI-I Liquid Alternatives UCITS Fund Class X EUR (Dublin),Funds,Open Ended Funds
+,ASLAUQH ID Equity,ASI HFRI-I Liquid Alternatives UCITS Fund Class Q HEDGED GBP ACC (Dublin),Funds,Open Ended Funds
+,ASLAUWE ID Equity,ASI HFRI-I Liquid Alternatives UCITS Fund Class W EUR ACC (Dublin),Funds,Open Ended Funds
+,ASLAUWH ID Equity,ASI HFRI-I Liquid Alternatives UCITS Fund Class W HDG EUR ACC (Dublin),Funds,Open Ended Funds
+,EHTRAXF US Equity,Benchmark Plus Long Short Partners LP Class HFRI EQUITY HEDGETRAX SLEEVE (U.S.),Funds,Fund of Funds
+,HDG500A KY Equity,abrdn Eclipse SPC - abrdn Eclipse HFRI 500 SP Class A (CSX),Funds,Fund of Funds
+,HDG500B KY Equity,abrdn Eclipse SPC - abrdn Eclipse HFRI 500 SP Class B (CSX),Funds,Fund of Funds
+,HDG500F KY Equity,abrdn Eclipse SPC - abrdn Eclipse HFRI 500 SP Class F (CSX),Funds,Fund of Funds
+,HDG5EDZ KY Equity,abrdn Eclipse Strategy SPC- abrdn Eclipse HFRI 500 Event Driven Multi-Strategy S Class Z (CSX),Funds,Fund of Funds
+,HDG5VLZ KY Equity,abrdn Eclipse Strategy SPC - abrdn Eclipse HFRI 500 Volatility RV SP Class Z (CSX),Funds,Fund of Funds
